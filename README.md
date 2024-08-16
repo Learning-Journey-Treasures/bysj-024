@@ -33,3 +33,13 @@
 - 微信授权登录即可，然后完善个人信息。 
 
 - 测试的时候可以设置为回收用户，发布设备，然后再修改个人信息为出售用户去创建订单，然后再切为回收用户查看相关订单信息
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/8.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/9.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-024/blob/master/91.png)
